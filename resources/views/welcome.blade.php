@@ -324,7 +324,7 @@
                                                                                             alt="" data-lazy-src="https://www.deha-soft.com/wp-content/uploads/2019/04/ico-mobile-app-development@2x.png" /><noscript><img width="92" height="110" src="https://www.deha-soft.com/wp-content/uploads/2019/04/ico-mobile-app-development@2x.png" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                                     <div class="elementor-image-box-content">
                                                                                         <h3 class="elementor-image-box-title">Phát triển kỹ năng phần cứng, phần mềm</h3>
-                                                                                        <p class="elementor-image-box-description">Những kỹ năng như vệ sinh máy, tra keo tản nhiệt, cài windows, cài phần mềm,…</p>
+                                                                                        <p class="elementor-image-box-description">Trau dồi những kĩ năng về phần cứng và phần mềm. Cùng nhau tìm hiểu những vấn đề mới và vấn đề phát sinh.</p>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -348,7 +348,7 @@
                                                                                             alt="Product Maintenance" data-lazy-src="https://www.deha-soft.com/wp-content/uploads/2019/04/ico-product-maintenance@2x.png" /><noscript><img width="110" height="110" src="https://www.deha-soft.com/wp-content/uploads/2019/04/ico-product-maintenance@2x.png" class="attachment-full size-full" alt="Product Maintenance" /></noscript></figure>
                                                                                     <div class="elementor-image-box-content">
                                                                                         <h3 class="elementor-image-box-title">Tham gia, tổ chức các hoạt động thường niên</h3>
-                                                                                        <p class="elementor-image-box-description">Hàng năm, đội tham gia các hoạt động như bảo trì phòng máy của khoa, trường hay bảo trì ở bên ngoài. Tổ chức các giải đấu thể thao điện tử,…</p>
+                                                                                        <p class="elementor-image-box-description">Đội thường xuyên có những hoạt động thường niên như bảo trì phòng máy của khoa, tư vấn mua máy tính, sửa chữa và bảo trì máy tính cho sinh viên và các thầy cô,.... Ngoài ra đội còn tham gia tổ chức nhiều hoạt động của khoa như giải đấu thể thao điện tử, đấu trường IT (I-Arena),.....</p>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -365,9 +365,8 @@
                                                                                     <figure class="elementor-image-box-img"><img width="118" height="110" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20118%20110'%3E%3C/svg%3E" class="attachment-full size-full"
                                                                                             alt="Offshore Consulting" data-lazy-src="https://www.deha-soft.com/wp-content/uploads/2019/04/ico-offshore-consulting@2x.png" /><noscript><img width="118" height="110" src="https://www.deha-soft.com/wp-content/uploads/2019/04/ico-offshore-consulting@2x.png" class="attachment-full size-full" alt="Offshore Consulting" /></noscript></figure>
                                                                                     <div class="elementor-image-box-content">
-                                                                                        <h3 class="elementor-image-box-title">Tư vấn kỹ năng làm việc nhóm</h3>
-                                                                                        <p class="elementor-image-box-description">Ở đây các bạn sẽ được trau dồi khả năng làm việc nhóm, trách nhiệm trước các công việc. Ngoài ra còn được rèn luyện kỹ năng nghe, nhìn, tổ chức – phân công công việc,
-                                                                                            giúp đỡ lẫn nhau. </p>
+                                                                                        <h3 class="elementor-image-box-title">Phát triển kĩ năng làm việc nhóm</h3>
+                                                                                        <p class="elementor-image-box-description">Ở đây các bạn sẽ được trau dồi khả năng làm việc nhóm, cách để giao tiếp tốt khi làm việc nhóm. Từ đó giúp phát huy tối đa khả năng làm việc nhóm.</p>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -464,7 +463,7 @@
                                                                                     <div class="timeline-item__meta">
                                                                                         <div class="timeline-item__meta-content">09/09/2017</div>
                                                                                     </div>
-                                                                                    <div class="timeline-item__card-desc">Đội tổ chức trương trình tech support even 1 và tuyển thành viên lần thứ nhất.</div>
+                                                                                    <div class="timeline-item__card-desc">Đội tổ chức trương trình tech support event 1 và tuyển thành viên lần thứ nhất.</div>
                                                                                 </div>
                                                                             </div>
                                                                             <div class="timeline-item__card-arrow"></div>
@@ -484,7 +483,7 @@
                                                                                     <div class="timeline-item__meta">
                                                                                         <div class="timeline-item__meta-content">Tháng 12 năm 2017</div>
                                                                                     </div>
-                                                                                    <div class="timeline-item__card-desc">Tech support even 2 và tuyển thành viên lần 2 được tổ chức trong niềm hân hoan chào tân sinh viên k12.</div>
+                                                                                    <div class="timeline-item__card-desc">Tech support event 2 và tuyển thành viên lần 2 được tổ chức trong niềm hân hoan chào tân sinh viên k12.</div>
                                                                                 </div>
                                                                             </div>
                                                                             <div class="timeline-item__card-arrow"></div>
@@ -523,7 +522,7 @@
                                                                                     <div class="timeline-item__meta">
                                                                                         <div class="timeline-item__meta-content">Tháng 03 năm 2019</div>
                                                                                     </div>
-                                                                                    <div class="timeline-item__card-desc">Tech support even 3 được tổ chức ở khu A và khu C.</div>
+                                                                                    <div class="timeline-item__card-desc">Tech support event 3 được tổ chức ở khu A và khu C.</div>
                                                                                 </div>
                                                                             </div>
                                                                             <div class="timeline-item__card-arrow"></div>
@@ -721,7 +720,7 @@
                                                             </div>
                                                             <h2 class="bdt-heading-title">
                                                                 <div class="bdt-main-heading">
-                                                                    <div class="bdt-main-heading-inner">EVEN</div>
+                                                                    <div class="bdt-main-heading-inner">EVENT</div>
                                                                     <div class="line bdt-button-icon-align-bottom"></div>
                                                                 </div>
                                                             </h2>
